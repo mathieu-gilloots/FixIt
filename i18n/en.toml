@@ -14,7 +14,7 @@ quicklyUpgrade = "Quickly upgrade use command: "
 [baseof]
 backToTop = "Back to Top"
 viewComments = "View Comments"
-noscript = "Theme FixIt works best with JavaScript enabled."
+noscript = "This website works best with JavaScript enabled."
 # === baseof ===
 
 # === Taxonomy ===
